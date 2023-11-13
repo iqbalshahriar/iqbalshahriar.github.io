@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Md Shahriar Iqbal"
+title                    : "Shahriar Iqbal"
 title_separator          : "-"
-name                     : &name "Md Shahriar Iqbal"
+name                     : &name "Shahriar Iqbal"
 description              : &description "personal description"
 url                      : https://iqbalshahriar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=vJaD3Q8AAAAJ&hl=en
   email            :
-  researchgate     : https://www.researchgate.net/profile/Md-Shahriar-Iqbal
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/iqbal128855
+  github           : iqbal128855
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/shahriariqbal/
+  linkedin         : shahriariqbal
   orcid            : 
   pinterest        :
   soundcloud       :
