@@ -13,10 +13,10 @@ Prior to joining PhD, I worked as a System Software Engineer for three years at 
 
 
 ## Research Interests
-I am interested to pursue research in the area of systems performance, deep learning compilers, distributed systems, and causal inference.
+I am interested to pursue research in the area of systems performance, deep learning compilers, distributed systems, and causal inference. Please do not hesitate to reach out to me at miqbal@email.sc.edu if you are looking for potential collaboration opportunities.
 
 ## Current Status
-I am actively looking for **Post-doctoral** and **Research Scientist** positions. Please do not hesitate to reach out to me at miqbal@email.sc.edu
+I am actively looking for **Post-doctoral** and **Research Scientist** positions. 
 
 ## Selected Publications
 - [**SoCC'23**] - CAMEO: A Causal Transfer Learning Approach for Performance Optimization of Configurable Computer Systems.
@@ -24,14 +24,14 @@ I am actively looking for **Post-doctoral** and **Research Scientist** positions
 - [**JAIR**] - FlexiBO: A Decoupled Cost-Aware Multi-Objective Optimization Approach for Deep Neural Networks.
 **MS Iqbal**, J Su, L Kotthoff, P Jamshidi. Acceptance Rate: 24%.
 - [**AutoML'22**] - Getting the Best Bang For Your Buck: Choosing What to Evaluate for Faster Bayesian Optimization.
-**MS Iqbal**, J Su, L Kotthoff, P Jamshidi
+**MS Iqbal**, J Su, L Kotthoff, P Jamshidi.
 - [**EuroSys'22**] - Unicorn: Reasoning about Configurable System Performance through the lens of Causality.
 **MS Iqbal**, R Krishna, MA Javidian, B Ray, P Jamshidi. Acceptance Rate: 24%.
 - [**MLforSys@NeurIPS'20**] - CADET: A Systematic Method For Debugging Misconfigurations using Counterfactual Reasoning.
-R Krishna, **MS Iqbal**, MA Javidian, B Ray, P Jamshidi.
+  **MS Iqbal**, R Krishna, MA Javidian, B Ray, P Jamshidi.
 
 ## What's Happening?
-- Nov'23 - Successfully completed my PhD dissertation defense
+- Nov'23 - Successfully completed my PhD dissertation defense.
 - Oct'23 - Presented [CAMEO](https://arxiv.org/pdf/2306.07888.pdf) in **SoCC'23**.
 - Sep'23 - Started work on LLM compiler optimization.
 - Sep'23 - Our paper [CAMEO](https://arxiv.org/pdf/2306.07888.pdf) got accepted in **SoCC'23**. 
@@ -46,4 +46,4 @@ R Krishna, **MS Iqbal**, MA Javidian, B Ray, P Jamshidi.
 - Nov'20 - Presented [FlexiBO](https://arxiv.org/pdf/2001.06588.pdf) to **ABLE** group at CMU.  
 - Oct'20 - Our paper [CADET](http://mlforsystems.org/assets/papers/neurips2020/cadet_iqbal_2020.pdf) got accepted in **MLforSys@NeurIPS'20**.
 - May'19 - Presented our [Performance Modeling](https://www.usenix.org/system/files/opml19papers-iqbal.pdf) paper got accepted in **USENIX OpML'19**. 
-- May'19 - Our paper on [Performance Modeling](https://www.usenix.org/system/files/opml19papers-iqbal.pdf) got accepted in **USENIX OpML'19**..
+- May'19 - Our paper on [Performance Modeling](https://www.usenix.org/system/files/opml19papers-iqbal.pdf) got accepted in **USENIX OpML'19**.
