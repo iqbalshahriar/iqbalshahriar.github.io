@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a CS PhD Candidate at the University of South Carolina. 
+I am a PhD candidate in the Computer Science and Engineering department at [University of South Carolina](https://www.cse.sc.edu/) Columbia SC. My current research is focused on performance optimization and debugging of highly configurable software systems. I am currently working at [AISys Lab](https://pooyanjamshidi.github.io/AISys/) under supervision of [Dr. Pooyan Jamshidi](https://pooyanjamshidi.github.io/). 
+
+Prior to joining PhD, I worked as a System Software Engineer for three years at [Hewlett Packard Enterprise](https://www.hpe.com/us/en/home.html) Houston TX. I completed my Masters in Electrical Engineering from [University of Central Florida](https://www.ece.ucf.edu/) Orlando FL and Bachelors in Applied Physics, Electronics and Comunication Engineering from [University of Dhaka](http://eee.du.ac.bd/) Bangladesh.
+
 
 ## Research Interests
 I am interested to pursue research in the area of systems performance, deep learning compilers, distributed systems, and causal inference.
