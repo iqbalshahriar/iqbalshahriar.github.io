@@ -11,7 +11,6 @@ I am a PhD candidate in the Computer Science and Engineering department at [Univ
 
 Prior to joining PhD, I worked as a System Software Engineer for three years at [Hewlett Packard Enterprise](https://www.hpe.com/us/en/home.html) Houston TX. I completed my Masters in Electrical Engineering from [University of Central Florida](https://www.ece.ucf.edu/) Orlando FL and Bachelors in Applied Physics, Electronics and Comunication Engineering from [University of Dhaka](http://eee.du.ac.bd/) Bangladesh.
 
-
 ## Research Interests
 I am interested to pursue research in the area of systems performance, deep learning compilers, distributed systems, and causal inference. Please do not hesitate to reach out to me at miqbal@email.sc.edu if you are looking for potential collaboration opportunities.
 
@@ -21,7 +20,6 @@ I am actively looking for **Postdoc** and **Research Scientist** positions.
 ## Selected Publications
 - [**SoCC'23**] - CAMEO: A Causal Transfer Learning Approach for Performance Optimization of Configurable Computer Systems, Santa Cruz, CA.
 **MS Iqbal**, Z Zhong, I Ahmad, B Ray, P Jamshidi. Acceptance Rate: 20%.
-  [paper](https://arxiv.org/pdf/2306.07888.pdf) [code](https://github.com/softsys4ai/CAMEO) 
 - [**JAIR**] - FlexiBO: A Decoupled Cost-Aware Multi-Objective Optimization Approach for Deep Neural Networks.
 **MS Iqbal**, J Su, L Kotthoff, P Jamshidi. Acceptance Rate: 24%.
 - [**AutoML'22**] - Getting the Best Bang For Your Buck: Choosing What to Evaluate for Faster Bayesian Optimization, Baltimore, MD.
