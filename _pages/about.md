@@ -16,18 +16,19 @@ Prior to joining PhD, I worked as a System Software Engineer for three years at 
 I am interested to pursue research in the area of systems performance, deep learning compilers, distributed systems, and causal inference. Please do not hesitate to reach out to me at miqbal@email.sc.edu if you are looking for potential collaboration opportunities.
 
 ## Current Status
-I am actively looking for **Post-doctoral** and **Research Scientist** positions. 
+I am actively looking for **Postdoc** and **Research Scientist** positions. 
 
 ## Selected Publications
-- [**SoCC'23**] - CAMEO: A Causal Transfer Learning Approach for Performance Optimization of Configurable Computer Systems.
+- [**SoCC'23**] - CAMEO: A Causal Transfer Learning Approach for Performance Optimization of Configurable Computer Systems, Santa Cruz, CA.
 **MS Iqbal**, Z Zhong, I Ahmad, B Ray, P Jamshidi. Acceptance Rate: 20%.
+  [paper](https://arxiv.org/pdf/2306.07888.pdf) [code](https://github.com/softsys4ai/CAMEO) 
 - [**JAIR**] - FlexiBO: A Decoupled Cost-Aware Multi-Objective Optimization Approach for Deep Neural Networks.
 **MS Iqbal**, J Su, L Kotthoff, P Jamshidi. Acceptance Rate: 24%.
-- [**AutoML'22**] - Getting the Best Bang For Your Buck: Choosing What to Evaluate for Faster Bayesian Optimization.
+- [**AutoML'22**] - Getting the Best Bang For Your Buck: Choosing What to Evaluate for Faster Bayesian Optimization, Baltimore, MD.
 **MS Iqbal**, J Su, L Kotthoff, P Jamshidi.
-- [**EuroSys'22**] - Unicorn: Reasoning about Configurable System Performance through the lens of Causality.
+- [**EuroSys'22**] - Unicorn: Reasoning about Configurable System Performance through the lens of Causality, Rennes, France.
 **MS Iqbal**, R Krishna, MA Javidian, B Ray, P Jamshidi. Acceptance Rate: 24%.
-- [**MLforSys@NeurIPS'20**] - CADET: A Systematic Method For Debugging Misconfigurations using Counterfactual Reasoning.
+- [**MLforSys@NeurIPS'20**] - CADET: A Systematic Method For Debugging Misconfigurations using Counterfactual Reasoning, Zoomville.
   **MS Iqbal**, R Krishna, MA Javidian, B Ray, P Jamshidi.
 
 ## What's Happening?
